@@ -1,0 +1,1 @@
+We have it all in here! Graphs, Vertices, and evenn Edges. Cant have an Edge without a Vertice.
