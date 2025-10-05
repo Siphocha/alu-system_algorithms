@@ -1,0 +1,1 @@
+We are just exploring the practical aspects of pathfinding. They are really intrinsic to software engineering and the subjects principals. Pathy pathy path.
